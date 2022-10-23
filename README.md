@@ -1,7 +1,8 @@
 # Welcome to React three fiber Minecraft
 
 This project is just me trying to mimic Minecraft in React.
-Still Under Construction !!
+
+## Still Under Construction !!
 
 ## How to play?
 
