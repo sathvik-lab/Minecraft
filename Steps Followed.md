@@ -15,3 +15,4 @@
 - [x] Save world in localstorage
 - [x] Hover state on cubes
 - [x] Build a house
+- [] Add arrow kwys to control 
