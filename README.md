@@ -16,7 +16,7 @@ You world is stored in your browsers local storage.
 
 ## Want to extend, develop modify?
 
-If you do so or just build a cool world. Please share it with me dbark@hey.com or https://twitter.com/barelydaniel
+
 
 In the project directory, you can run:
 
